@@ -20,7 +20,6 @@ DOMAIN-KEYWORD,pings.qq.com,REJECT
 DOMAIN-KEYWORD,dlied1.qq.com,PROXY
 DOMAIN-KEYWORD,thirdqq,REJECT
 DOMAIN-KEYWORD,4399.com,PROXY
-DOMAIN-KEYWORD,bing,PROXY
 DOMAIN-KEYWORD,t3yanzheng,DIRECT
 DOMAIN,llua.cn,DIRECT
 DOMAIN-KEYWORD,thirdwx,REJECT
@@ -42,7 +41,6 @@ DOMAIN-KEYWORD,anticheatexpert,DIRECT
 DOMAIN,nj.cschannel.anticheatexpert.com,PROXY
 DOMAIN,s3.bmp.ovh,DIRECT
 DOMAIN,m.baidu.com,PROXY
-DOMAIN,www.baidu.com,PROXY
 DOMAIN,kxzimg.pages.dev,PROXY
 #域名
 DOMAIN,117.wefun.vip,REJECT
